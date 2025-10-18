@@ -1,0 +1,18 @@
+# Chess AI Systems - Research Project Dependencies
+
+# Core chess functionality
+python-chess>=1.9.0
+
+# Expert system integration
+stockfish>=4.0.0
+
+# Neural network implementation
+torch>=2.0.0
+numpy>=1.21.0
+
+# Web interface
+gradio>=3.0.0
+
+# Additional utilities
+tqdm>=4.60.0
+requests>=2.25.0
