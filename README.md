@@ -29,7 +29,7 @@ This project implements and compares three architectural patterns for chess AI:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/chess-ai-systems.git
+git clone https://github.com/DavidDeez/chess-ai-systems.git
 cd chess-ai-systems
 
 # 2. Install dependencies
