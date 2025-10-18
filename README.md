@@ -1,6 +1,6 @@
 # ♟️ Chess AI Systems: Multi-Engine Architecture Analysis
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/chess-ai-systems/blob/main/app.py)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DavidDeez/chess-ai-systems/blob/main/app.py)
 
 Research project analyzing performance characteristics of classical search vs. neural evaluation vs. expert system architectures for chess AI.
 
